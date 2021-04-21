@@ -7,7 +7,8 @@ I’m currently learning ... Front-End, Japanese🌱 <br><br><br>
 
 <img alt="HTML" src ="https://img.shields.io/badge/_-HTML-green">
 <img alt="CSS" src ="https://img.shields.io/badge/_-CSS-FBF37C">
-<img alt="Python" src ="https://img.shields.io/badge/_-Python-91BED4">
+<img alt="C" src ="https://img.shields.io/badge/_-C/C++-FF712C">
+<img alt="Python" src ="https://img.shields.io/badge/_-Python-0468BF">
 <img alt="Android" src ="https://img.shields.io/badge/_-Android-9F61DD">
 <img alt="Javascript" src ="https://img.shields.io/badge/_-Javascript-F580A9">
 
