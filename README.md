@@ -11,6 +11,7 @@ I’m currently learning ... Front-End, Japanese🌱 <br><br><br>
 <img alt="Python" src ="https://img.shields.io/badge/_-Python-0468BF">
 <img alt="Android" src ="https://img.shields.io/badge/_-Android-9F61DD">
 <img alt="Javascript" src ="https://img.shields.io/badge/_-Javascript-F580A9">
+<img alt="Java" src ="https://img.shields.io/badge/_-Java-88B8E1">
 
 <h3 align="center"> Day by day <br> in every way <br> I'm getting Better and Better 🧞‍♂️
 </p>
