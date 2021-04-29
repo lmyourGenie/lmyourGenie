@@ -13,7 +13,7 @@ I’m currently learning ... Front-End, Japanese🌱 <br><br><br>
 <img alt="Javascript" src ="https://img.shields.io/badge/_-Javascript-F580A9">
 <img alt="Java" src ="https://img.shields.io/badge/_-Java-88B8E1">
 
-<h3 align="center"> Day by day <br> in every way <br> I'm getting Better and Better 🧞‍♂️
+<h3 align="center"> Day by day <br> in every way <br> I'm getting Better and Better 🧞‍♂️ </h3>
+
+![](https://komarev.com/ghpvc/?username=lmyourGenie&color=dc143c&style=flat)
 </p>
-</h3>
-<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FlmyourGenie&count_bg=%23DBECEF&title_bg=%236A9CBA&icon=&icon_color=%23E76593&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
