@@ -12,7 +12,7 @@ I’m currently learning ... Front-End, Japanese🌱 <br><br><br>
 <img alt="Android" src ="https://img.shields.io/badge/_-Android-9F61DD">
 <img alt="Javascript" src ="https://img.shields.io/badge/_-Javascript-F580A9">
 <img alt="Java" src ="https://img.shields.io/badge/_-Java-88B8E1">
-
+<img alt="Vue" src ="https://img.shields.io/badge/_-Vue-EB4646">
 
 <h3 align="center"> Day by day <br> in every way <br> I'm getting Better and Better 🧞‍♂️ </h3>
 <h3 align="center">•••</h3>
